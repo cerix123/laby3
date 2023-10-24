@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\SuperStudent-PL\Desktop\xd\Lab2\Lab2\main.cpp(21,15): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\SuperStudent-PL\Desktop\xd\Lab2\Lab2\main.cpp(45,68): error C2059: błąd składniowy: „)”
